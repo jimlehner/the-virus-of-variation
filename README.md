@@ -8,10 +8,10 @@ The `process_improvement.py` package is part of the larger body of work called `
 Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for resources and more details regarding the application and use of `process behavior charts`. Contact me **James.Lehner@gmail.com** if you have questions or would like to collaborate. 
 
 ## Table of Contents
-- [Python Code](#pythoncode)
-- [Excel Workbooks](#excelworkbooks) 
+- [Python Code](#python-code)
+- [Excel Workbooks](#excel-workbooks) 
 - [Datasets](#data)
-- [Process Improvement library](#processimprovement)
+- [Process Improvement library](#process-improvement-library)
 - [Contributing](#contributing) 
 - [Contact](#contact) 
 - [License](#license)
