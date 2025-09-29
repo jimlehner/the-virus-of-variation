@@ -1,0 +1,53 @@
+Hospital,Clinic,Employee,Year,Births,Deaths,Rate,Note
+Vienna General Hospital,1st Clinic,Students & Doctors,1833,3737,197,5.3,Second clinic started
+Vienna General Hospital,1st Clinic,Students & Doctors,1834,2657,205,7.7,
+Vienna General Hospital,1st Clinic,Students & Doctors,1835,2573,143,5.6,
+Vienna General Hospital,1st Clinic,Students & Doctors,1836,2677,200,7.5,
+Vienna General Hospital,1st Clinic,Students & Doctors,1837,2765,251,9.1,
+Vienna General Hospital,1st Clinic,Students & Doctors,1838,2987,91,3,
+Vienna General Hospital,1st Clinic,Students & Doctors,1839,2781,151,5.4,
+Vienna General Hospital,1st Clinic,Students & Doctors,1840,2889,267,9.2,
+Vienna General Hospital,1st Clinic,Students & Doctors,1841,3036,237,7.8,Only midwives worked in the second clinic
+Vienna General Hospital,1st Clinic,Students & Doctors,1842,3287,518,15.8,
+Vienna General Hospital,1st Clinic,Students & Doctors,1843,3060,274,9,
+Vienna General Hospital,1st Clinic,Students & Doctors,1844,3157,260,8.2,
+Vienna General Hospital,1st Clinic,Students & Doctors,1845,3492,241,6.9,
+Vienna General Hospital,1st Clinic,Students & Doctors,1846,4010,459,11.4,
+Vienna General Hospital,1st Clinic,Students & Doctors,1847,3490,176,5,Handwashing in first clinic mid-May
+Vienna General Hospital,1st Clinic,Students & Doctors,1848,3556,45,1.3,
+Vienna General Hospital,1st Clinic,Students & Doctors,1849,3858,103,2.7,Semmelweis dismissed in March
+Vienna General Hospital,1st Clinic,Students & Doctors,1850,3745,74,2,
+Vienna General Hospital,1st Clinic,Students & Doctors,1851,4194,75,1.8,
+Vienna General Hospital,1st Clinic,Students & Doctors,1852,4471,181,4,
+Vienna General Hospital,1st Clinic,Students & Doctors,1853,4221,94,2.2,
+Vienna General Hospital,1st Clinic,Students & Doctors,1854,4393,400,9.1,
+Vienna General Hospital,1st Clinic,Students & Doctors,1855,3659,198,5.4,
+Vienna General Hospital,1st Clinic,Students & Doctors,1856,3925,156,4,
+Vienna General Hospital,1st Clinic,Students & Doctors,1857,4220,124,2.9,
+Vienna General Hospital,1st Clinic,Students & Doctors,1858,4203,86,2,
+Vienna General Hospital,2nd Clinic,Midwives,1833,353,8,2.3,Second clinic started
+Vienna General Hospital,2nd Clinic,Midwives,1834,1744,150,8.6,
+Vienna General Hospital,2nd Clinic,Midwives,1835,1682,84,5,
+Vienna General Hospital,2nd Clinic,Midwives,1836,1670,131,7.8,
+Vienna General Hospital,2nd Clinic,Midwives,1837,1784,124,7,
+Vienna General Hospital,2nd Clinic,Midwives,1838,1779,88,4.9,
+Vienna General Hospital,2nd Clinic,Midwives,1839,2010,91,4.5,
+Vienna General Hospital,2nd Clinic,Midwives,1840,2073,55,2.7,
+Vienna General Hospital,2nd Clinic,Midwives,1841,2442,86,3.5,Only midwives worked in the second clinic
+Vienna General Hospital,2nd Clinic,Midwives,1842,2659,202,7.6,
+Vienna General Hospital,2nd Clinic,Midwives,1843,2739,164,6,
+Vienna General Hospital,2nd Clinic,Midwives,1844,2956,68,2.3,
+Vienna General Hospital,2nd Clinic,Midwives,1845,3241,66,2,
+Vienna General Hospital,2nd Clinic,Midwives,1846,3754,105,2.8,
+Vienna General Hospital,2nd Clinic,Midwives,1847,3306,32,1,Handwashing in first clinic mid-May
+Vienna General Hospital,2nd Clinic,Midwives,1848,3319,43,1.3,
+Vienna General Hospital,2nd Clinic,Midwives,1849,3371,87,2.6,Semmelweis dismissed in March
+Vienna General Hospital,2nd Clinic,Midwives,1850,3261,54,1.7,
+Vienna General Hospital,2nd Clinic,Midwives,1851,3395,121,3.6,
+Vienna General Hospital,2nd Clinic,Midwives,1852,3360,192,5.7,
+Vienna General Hospital,2nd Clinic,Midwives,1853,3480,67,1.9,
+Vienna General Hospital,2nd Clinic,Midwives,1854,3396,210,6.2,
+Vienna General Hospital,2nd Clinic,Midwives,1855,2938,174,5.9,
+Vienna General Hospital,2nd Clinic,Midwives,1856,3070,125,4.1,
+Vienna General Hospital,2nd Clinic,Midwives,1857,3795,83,2.2,
+Vienna General Hospital,2nd Clinic,Midwives,1858,4179,60,1.4,
