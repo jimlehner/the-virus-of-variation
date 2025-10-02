@@ -1,11 +1,9 @@
 # The Virus of Variation: Making Sense of Death and Data using Process Behavior Charts
-Welcome to the official GitHub repository for **The Virus of Variation: Making Sense of Death and Data using Process Behavior Charts**. Here, you will find the Python code, Excel workbooks, and datasets used to generated the figures in  the book. The Python code and workbooks are organized by chapter. The datasets are organized by title as they pertain to application. For instance, Chapter 18, *A Framework for comparison* outlines how to perform *temporal* and *physical* comparisons using process behavior charts. The dataset used in the temporal comparison is called *death-to-birth-rates-for-temporal-comparison* while the dataset used in the physical comparison is called *death-to-birth-rates-for-physical-comparison*. These The intent of the repository is to serve as a practical resource for those interested in furthering their understanding of variation as it pertains to Python. For those not interested in 
+Welcome to the official GitHub repository for **The Virus of Variation: Making Sense of Death and Data using Process Behavior Charts**. Here, you will find the Python code, Excel workbooks, and datasets used to generated the figures in  the *The Virus of Variation*. The Python code and Excel workbooks are organized by chapter. The datasets are organized by title as they pertain to application. For instance, Chapter 18, *A Framework for comparison* outlines how to perform *temporal* and *physical* comparisons using process behavior charts. The dataset used in the temporal comparison is called *temporal-comparison-death-to-birth-rates* while the dataset used in the physical comparison is called *physical-comparison-death-to-birth-rates*. The intent of the repository is to serve as a practical resource for those reading *The Virus of Variation* that are interested in furthering their practical understanding of the topics that it explores. 
 
-The primary tool of the `process_improvement.py` package is the process behavior chart for individual values and a moving range called the XmR Chart. The `process_improvement.py` contains additional modules and functions related to the task of process improvement including capability analysis, network analysis, comparison charts, and limit charts. 
+If you've somehow found yourself here without having purchased the book, visit [brokenquality.com/book](https://www.brokenquality.com/book) to purchase a copy. 
 
-The `process_improvement.py` package is part of the larger body of work called `The Broken Quality Initiative` (BrokenQuality.com). The aim of BQI is to address industries' pervasive lack of knowledge regarding variation and the only tool capable of making sense of variation, the process behavior chart (control chart). 
-
-Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for resources and more details regarding the application and use of `process behavior charts`. Contact me **James.Lehner@gmail.com** if you have questions or would like to collaborate. 
+For additional resources outside of *The Virus of Variation*, visit [BrokenQuality.com](https://www.BrokenQuality.com). If you have questions or would like to collaborate, contact **James.Lehner@gmail.com** or email **QualityIsBroken@gmail.com**. 
 
 ## Table of Contents
 - [Python Code](#python-code)
@@ -54,17 +52,17 @@ Excel workbooks are sequentially organized by chapter using the same structure a
 
 ## Datasets
 The 11 different datasets that are used in **The Virus of Variation** include:
-1. annual-salaries-in-1845-for-vienna-obstetrics-dep.csv
-2. east-and-west-sales-regions.csv
+1. obstetrics-annual-salaries-in-1845.csv
+2. sales-by-regions.csv
 3. death-to-birth-rates-by-hospital-1784-to-1849.csv
 4. death-to-birth-rates-for-software-verification.csv
 5. causes-of-death-in-1864-dublin.csv
 6. shewharts-resistance-measurements.csv
-7. death-to-birth-rates-for-impact-of-handwashing.csv
-8. death-to-birth-rates-for-impact-of-pathological-anatomy.csv
-9. death-to-birth-rates-for-temporal-comparison.csv
-10. death-to-birth-rates-for-physical-comparison.csv
-11. death-to-birth-rates-for-improvement.csv
+7. impact-of-handwashing-death-to-birth-rates.csv
+8. impact-of-pathological-anatomy-death-to-birth-rates.csv
+9. temporal-comparison-death-to-birth-rates.csv
+10. physical-comparison-death-to-birth-rates.csv
+11. improvement-death-to-birth-rates.csv
 
 ## Process Improvement Library
 The `process_improvement.py` library simplifies the task of building process behavior charts using Python. The library is available on PyPi.org and can be installed with pip using the following command:
