@@ -5,17 +5,11 @@ Making sense of data, understanding variation, and improving processes is not a 
 
 <img src="images/The-Virus-of-Variation_Book-Cover_Final_Mockup.jpg" alt="Cover Image" width="50%">
 
-The Python code and Excel files are organized by chapter title. The naming convetion used for the figures in each chapter is used in the Python code and Excel files for easy reference.
+The Python code and Excel files are organized by chapter title with the naming convetion for the files reflecting the naming convetion in the book.
 
-The datasets used in the book are listed in the [Datasets](#datasets) section of this document. Under each dataset is a bulleted list of the book chapters where the specific dataset was used. For instance, the `causes-of-death-in-1864-dublin.csv` dataset is only used in Chapter 4, *Measures of Location* and, as a result, is the only item listed under 
+The datasets used in the book are listed in the [Datasets](#datasets) section of this document. Under each dataset is a bulleted list of the chapters where the respective dataset is used. For instance, the `causes-of-death-in-1864-dublin.csv` dataset is used in Chapter 4 and Appendix B. As a result, the bulleted list that follows shows Chapter 4 and Appendix B.
 
-Undnerneath each dataset is a bulleted list of the chapters that  organized by title as they pertain to application. For instance, Chapter 18, *A Framework for comparison* outlines how to perform *temporal* and *physical* comparisons using process behavior charts. The dataset used in the temporal comparison is called *temporal-comparison-death-to-birth-rates.csv* while the dataset used in the physical comparison is called *physical-comparison-death-to-birth-rates.csv*. The intent of the repository is to serve as a practical resource for those interested in furthering their understanding of variation as it pertains to Python. For those not interested in 
-
-The primary tool of the `process_improvement.py` package is the process behavior chart for individual values and a moving range called the XmR Chart. The `process_improvement.py` contains additional modules and functions related to the task of process improvement including capability analysis, network analysis, comparison charts, and limit charts. 
-
-The `process_improvement.py` package is part of the larger body of work called `The Broken Quality Initiative` (BrokenQuality.com). The aim of BQI is to address industries' pervasive lack of knowledge regarding variation and the only tool capable of making sense of variation, the process behavior chart (control chart). 
-
-Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for resources and more details regarding the application and use of `process behavior charts`. 
+Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for additional resources and details regarding the application and use of `process behavior charts`. 
 
 If you have questions or would like to collaborate, send us an email at **James.Lehner@gmail.com** or **QualityIsBroken@gmail.com**. 
 
