@@ -15,7 +15,9 @@ The primary tool of the `process_improvement.py` package is the process behavior
 
 The `process_improvement.py` package is part of the larger body of work called `The Broken Quality Initiative` (BrokenQuality.com). The aim of BQI is to address industries' pervasive lack of knowledge regarding variation and the only tool capable of making sense of variation, the process behavior chart (control chart). 
 
-Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for resources and more details regarding the application and use of `process behavior charts`. Contact me **James.Lehner@gmail.com** if you have questions or would like to collaborate. 
+Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for resources and more details regarding the application and use of `process behavior charts`. 
+
+If you have questions or would like to collaborate, send us an email at **James.Lehner@gmail.com** or **QualityIsBroken@gmail.com**. 
 
 ## Table of Contents
 - [Python Code](#python-code)
