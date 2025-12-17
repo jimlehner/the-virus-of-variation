@@ -1,8 +1,6 @@
 # The Virus of Variation: Making Sense of Death and Data using Process Behavior Charts
 Welcome to the official GitHub repository for **The Virus of Variation: Making Sense of Death and Data using Process Behavior Charts**. Here, you will find the Python code, Excel files, and datasets used to generate the figures in the **The Virus of Variation**.
 
-<!-- ![Cover Image](images/The-Virus-of-Variation_Book-Cover_Final_Mockup.jpg) -->
-
 <img src="images/The-Virus-of-Variation_Book-Cover_Final_Mockup.jpg" alt="Cover Image" width="50%">
 
 The Python code and Excel files are organized by chapter title. The naming convetion used for the figures in each chapter is used in the Python code and Excel files for easy reference.
