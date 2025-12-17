@@ -24,7 +24,7 @@ If you have questions or would like to collaborate, send us an email at **James.
 - [Additional Information](#additional-information)
 
 ## Python Code
-Python code is organized by chapter title. Specific figures in the code are labeled in accordance with the numbering scheme in **The Virus of Variation**. In instances where a chapter does not contain figures or calculations using Python, an 'NA' is shown in the list below. 
+Python code is organized by chapter title. Specific figures in the code are labeled in accordance with the numbering scheme in **The Virus of Variation**. In instances where a chapter does not contain figures or calculations using Python, an 'NA' is shown in the list below. The files can be found [here](https://github.com/jimlehner/the-virus-of-variation/tree/main/python).
 
 1. CHP_01_the_case_of_ignaz_semmelweis.ipynb
 2. CHP_02_the_impact_of_handwashing_at_vienna_general.ipynb
@@ -68,7 +68,7 @@ Python code is organized by chapter title. Specific figures in the code are labe
 40. APP_J_tables_for_bias_correction_factors_and_scaling_factors.ipynb
 
 ## Excel Files
-Excel files are organized by chapter title using the same structure as the Python code.  Within each Excel files, is an overview tab, a data tab, and a tab for each of the tables or figures using the naming convention from **The Virus of Variation**. In instances where a chapter does not have an Excel file, 'NA' is shown in the list below.
+Excel files are organized by chapter title using the same structure as the Python code.  Within each Excel files, is an overview tab, a data tab, and a tab for each of the tables or figures using the naming convention from **The Virus of Variation**. In instances where a chapter does not have an Excel file, 'NA' is shown in the list below. File files can be found [here](https://github.com/jimlehner/the-virus-of-variation/tree/main/excel_files).
 
 1. CHP_01_the_case_of_ignaz_semmelweis.xlsx
 2. CHP_02_the_impact_of_handwashing_at_vienna_general.xlsx
